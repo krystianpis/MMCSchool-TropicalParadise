@@ -6,7 +6,7 @@ This project is lesson from MMC School course part 3 website project based on Fl
 
 ## Future plans
 
-~~I will add completed version of the site. Work in progress...
+I will add completed version of the site. Work in progress...
 
 ## License and using
 
