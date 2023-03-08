@@ -1,4 +1,4 @@
-# Website Project (MMC School course part 3) - by Krystian Pis/MMC School
+# Website Project based on Flexbox (MMC School course part 3) - by Krystian Pis/MMC School
 
 ## Purpose of this project
 
